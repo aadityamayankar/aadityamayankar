@@ -8,13 +8,13 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadityamayankar&color=red&style=flat-square" alt="candida18" /> </p>
 
-## Streak Stats
+## 📈 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=aadityamayankar&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats"/></p>
 
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### ✨ Programming languages
 
 <p align="left"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### 👉 Frontend Development
+### ✨ Frontend Development
 <p align="left"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
 
-### 👉 Databases & Cloud Hosting
+### ✨ Databases & Cloud Hosting
 <p align="left">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
  </p>
   
-### 👉 Software & Tools
+### ✨ Software & Tools
  
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -79,8 +79,8 @@
 
 <hr/>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
+## 🔗 Connect with me
+<p align="center">
 <a href="https://www.linkedin.com/in/aadityamayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aadityamayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankar" height="30" width="40" /></a>
 <a href="https://leetcode.com/mayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankar" height="30" width="40" /></a>
