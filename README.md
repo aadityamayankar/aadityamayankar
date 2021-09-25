@@ -76,5 +76,15 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 <br/>
+
 <hr/>
-_PS: to be edited_
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://www.linkedin.com/in/aadityamayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aadityamayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://leetcode.com/mayankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayankar" height="30" width="40" /></a>
+<a href="https://binarysearch.com/@/mayankar" target="blank"><img align="center" src="https://binarysearch.com/favicon.ico" alt="mayankar" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/mayankar" target="blank"><img align="center" src="https://yt3.ggpht.com/vDx6SI8Idlp0RFkO-_aoukC7M6JUBu5xxBxRGGInmzw1hqIfcLYIKUvZKYRAAoNob7drkULmrA=s68-c-k-c0x00ffffff-no-rj" alt="mayankar" height="30" width="30" /></a>
+<a href="https://atcoder.jp/users/mayankar" target="blank"><img align="center" src="https://img.atcoder.jp/assets/logo.png" alt="mayankar" height="30" width="30" /></a>
+</p>
