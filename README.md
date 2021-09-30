@@ -88,5 +88,6 @@
 <a href="https://binarysearch.com/@/mayankar" target="blank"><img align="center" src="https://binarysearch.com/favicon.ico" alt="mayankar" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/mayankar" target="blank"><img align="center" src="https://yt3.ggpht.com/vDx6SI8Idlp0RFkO-_aoukC7M6JUBu5xxBxRGGInmzw1hqIfcLYIKUvZKYRAAoNob7drkULmrA=s68-c-k-c0x00ffffff-no-rj" alt="mayankar" height="30" width="30" /></a>
 <a href="https://atcoder.jp/users/mayankar" target="blank"><img align="center" src="https://img.atcoder.jp/assets/logo.png" alt="mayankar" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/mayankarr" target="blank"><img height="30" width="30" align="center" src="https://github.com/tuomastik/icons/blob/master/kaggle_logo/kaggle_logo_blue_32x32.png?raw=true" alt="mayankar" height="30" width="30" /></a>
 <a href="mailto:aadityamayankar@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="mayankar" height="30" width="30" /></a>
 </p>
