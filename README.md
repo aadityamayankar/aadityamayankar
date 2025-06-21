@@ -9,7 +9,7 @@ I'm **Mayankar**, a tech nerd who likes to cook & lift.
 <pre>
 	💼 SDE @ Zscaler * 🎓 MUJ 2023 Grad * 👨‍💻 Backend Dev * 💻 Systems enthusiast
 	👾 Spring * 📊 Competitive programming * 💭 Probelm Solving * 🔒 Cloud Security
-	🎶 Music * 🏯 Anime * Code * 💪 Lifting * 👓 nerd
+	🎶 Music * 🏯 Anime * Code * 💪 Lifting * ♠️ poker
 </pre>
 
 <p align="center">
